@@ -1,3 +1,5 @@
 print("Hello, World")
 a = 10
-print(a)
+b = 5
+sum = a+b
+print(sum)
